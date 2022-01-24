@@ -3,6 +3,5 @@
 ## Usage
 
 ```
-brew tap zkokaja/brewlet
-brew cask install brewlet
+brew install brewlet
 ```
